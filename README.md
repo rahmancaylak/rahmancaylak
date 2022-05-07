@@ -1,11 +1,11 @@
 <h1 align="center">I'm Rahman Çaylak <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" style="max-width: 100%;"></h1>
 <h3 align="center">Jr. Frontend Developer who developed himself</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React - Next.JS**
 
 - 👨‍💻 All of my projects are available at [https://rahmancaylak.github.io/](https://rahmancaylak.github.io/)
 
-- 💬 Ask me about **Bootstrap, React, Javascript**
+- 💬 Ask me about **Bootstrap, Tailwind, Next.JS, React, Javascript**
 
 - 📫 How to reach me **[Mail](mailto:rahmancaylakk@gmail.com)**
 
