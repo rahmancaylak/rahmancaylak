@@ -1,4 +1,4 @@
-<h1 align="center">I'm Rahman Çaylak <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="width:50px!important; height:50px!important;"></h1>
+<h1 align="center">I'm Rahman Çaylak <span>👋</span></h1>
 <h3 align="center">Jr. Frontend Developer who developed himself</h3>
 
 - 🌱 I’m currently learning **React - Next.JS**
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **[Mail](mailto:rahmancaylakk@gmail.com)**
 
-<h3 align="left" style="display: flex; align-items: center;">Connect with me:<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px" style="width:100px!important;"></h3>
+<h3 align="left" style="display: flex; align-items: center;">Connect with me:<img src="https://camo.githubusercontent.com/2ffe55dfab53cb3cc8746db5403838c39f6a22e1a45d2ac532648530c7ffca77/68747470733a2f2f73342e67696679752e636f6d2f696d616765732f68616e647368616b652e676966"></h3>
 <a href="https://github.com/rahmancaylak" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
