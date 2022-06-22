@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **[Mail](mailto:rahmancaylakk@gmail.com)**
 
-<h3 align="left" style="display: flex; align-items: center;">Connect with me:<img src="https://camo.githubusercontent.com/2ffe55dfab53cb3cc8746db5403838c39f6a22e1a45d2ac532648530c7ffca77/68747470733a2f2f73342e67696679752e636f6d2f696d616765732f68616e647368616b652e676966"></h3>
+<h3 align="left" style="display: flex; align-items: center;">Connect with me:</h3>
 <a href="https://github.com/rahmancaylak" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
