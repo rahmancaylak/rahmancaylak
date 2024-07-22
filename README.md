@@ -1,5 +1,5 @@
 <h1 align="center">I'm Rahman Çaylak <span>👋</span></h1>
-<h3 align="center">Jr. Frontend Developer who developed himself</h3>
+<h3 align="center">Frontend Developer who developed himself</h3>
 
 - 🌱 I’m currently learning **React - Next.JS**
 
